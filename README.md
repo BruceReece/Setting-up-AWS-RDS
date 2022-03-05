@@ -13,7 +13,6 @@ RDS – Amazon Rational Database allows you to do experiment for free.
 
 <h2>Steps to setup a RDS DB Instance:</h2>
 1.	Sign into your AWS Management Console and search for RDS. 
-![Picture1](https://user-images.githubusercontent.com/54920448/156864493-5d9cff67-2154-4197-b007-4416db492487.png) 
 
 2.	Once you find RDS console, open that RDS console page. 
 
