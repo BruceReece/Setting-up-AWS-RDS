@@ -12,7 +12,8 @@ RDS – Amazon Rational Database allows you to do experiment for free.
 •	20 GB of backup storage (automatically backups storages if something happens). 
 
 <h2>Steps to setup a RDS DB Instance:</h2>
-1.	Sign into your AWS Management Console and search for RDS. 
+1.	Sign into your AWS Management Console and search for RDS.
+2.	<img src="image/picture1.png" alt=""> 
 
 2.	Once you find RDS console, open that RDS console page. 
 
