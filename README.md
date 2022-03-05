@@ -5,13 +5,13 @@ Senior Project
 
 RDS – Amazon Rational Database allows you to do experiment for free.
 
-Reasons for this decision:
+<h2>Reasons for this decision:</h2>
 •	It provides up to 750 hours within available zones.
 •	Database engines are MySQL, MariaDB, PostgreSQL, Oracle BYOL and SQL Server.
 •	20 GB of General Purpose (SSD) DB Storage.
 •	20 GB of backup storage (automatically backups storages if something happens). 
 
-Steps to setup a RDS DB Instance:
+<h2>Steps to setup a RDS DB Instance:</h2>
 1.	Sign into your AWS Management Console and search for RDS. 
  
 
@@ -78,6 +78,6 @@ After you launch your DB instance you will see this below.
 After your DB instance is ready you will see this below. You can modify your instances and monitor your usage. 
 
  
-Reference:
+<h2>Reference:</h2>
  https://www.youtube.com/watch?v=UcZOJhi2R5o 
 
