@@ -3,7 +3,7 @@ Senior Project
 
 <h1>Setup Amazon Free Tier RDS MySQL Database Instance (db.t2.micro)</h1>
 
-RDS – Amazon Rational Database allows you to do experiment for free.
+RDS – Amazon Rational Database allows you to do experiment database environment for free.
 
 <h2>Reasons for this decision:</h2>
 •	It provides up to 750 hours within available zones.
