@@ -49,7 +49,7 @@ Aurora/MySQL/MariaDB is 3306, PostgreSQL is 5432, Oracle is 1521, and SQL Server
 After you launch your DB instance you will see this below.
 <img src="image/Picture13.png" alt=""> 
  
-After your DB instance is ready you will see this below. You can modify your instances and monitor your usage. 
+After your DB instance is ready you will can modify and change your settings. 
 <img src="image/Picture14.png" alt=""> 
  
 <h2>Reference:</h2>
