@@ -1,7 +1,7 @@
 # Setting-up-AWS-RDS
 Senior Project
 
-Setup Amazon Free Tier RDS MySQL Database Instance (db.t2.micro)
+<h1>Setup Amazon Free Tier RDS MySQL Database Instance (db.t2.micro)</h1>
 
 RDS – Amazon Rational Database allows you to do experiment for free.
 
